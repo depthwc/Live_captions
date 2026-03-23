@@ -1,2 +1,2 @@
-# Live_captions_whisper
+# Live_captions
 live caption
