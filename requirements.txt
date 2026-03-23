@@ -1,0 +1,4 @@
+faster-whisper
+soundcard
+numpy
+PySide6
