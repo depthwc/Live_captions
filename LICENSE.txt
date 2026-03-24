@@ -1,0 +1,12 @@
+Copyright (c) 2026 depthwc
+
+Permission is granted to any person to use, copy, modify, and distribute
+this software for personal and non-commercial purposes.
+
+Commercial use of this software or any derivative work is NOT permitted
+without explicit written permission from the author.
+
+The original author must be credited in any copies or substantial portions
+of the software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
